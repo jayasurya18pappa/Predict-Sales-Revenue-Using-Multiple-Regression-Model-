@@ -11,9 +11,9 @@ In this project ,I have built and evaluated **multiple linear regression models*
  - Performed Model interaction effects in regression using basic feature engineering techniques.
 
 
-1. [Notebook Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/multiple.ipynb)
+1. [Notebook Link](https://github.com/ditikrushna/Predict-Sales-Revenue-Using-Multiple-Regression-Model-/blob/master/multiple.ipynb)
 
-2. [Dataset Link](https://github.com/jayasurya18pappa/Predict-Sales-Revenue-Using-Multiple-Regression-Model/blob/master/Advertising.csv)
+2. [Dataset Link](https://github.com/jayasurya18pappa/Predict-Sales-Revenue-Using-Multiple-Regression-Model-/blob/master/Advertising.csv)
 
 ### Output : 
-(https://github.com/jayasurya18pappa/Predict-Sales-Revenue-Using-Multiple-Regression-Model/Output/actual_vs_predicted.png)
+(https://github.com/jayasurya18pappa/Predict-Sales-Revenue-Using-Multiple-Regression-Model-/Output/actual_vs_predicted.png)
