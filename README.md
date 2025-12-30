@@ -16,4 +16,4 @@ In this project ,I have built and evaluated **multiple linear regression models*
 2. [Dataset Link](https://github.com/jayasurya18pappa/Predict-Sales-Revenue-Using-Multiple-Regression-Model-/blob/master/Advertising.csv)
 
 ### Output : 
-Output/actual_vs_predicted.png)
+Output/actual_vs_predicted.png
